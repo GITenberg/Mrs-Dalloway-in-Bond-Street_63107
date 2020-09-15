@@ -1,0 +1,31 @@
+_repo: Mrs-Dalloway-in-Bond-Street_63107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Stephen, Virginia
+    - Woolf, Virginia Stephen
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: ''
+gutenberg_issued: '2020-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- GITenberg
+title: Mrs Dalloway in Bond Street
+url: http://www.gutenberg.org/ebooks/63107
